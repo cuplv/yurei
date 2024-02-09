@@ -1,7 +1,7 @@
-package impls.imp
+package yurei.impls.imp
 
-import impls.imp.Expr.*
-import impls.imp.Val.*
+import yurei.impls.imp.Expr.*
+import yurei.impls.imp.Val.*
 
 class ImpSuite extends munit.FunSuite {
 

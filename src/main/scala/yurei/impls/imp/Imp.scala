@@ -1,6 +1,6 @@
-package impls.imp
+package yurei.impls.imp
 
-import impls.imp.Expr.V
+import yurei.impls.imp.Expr.V
 
 enum Val:
   case Num(n: Int)
