@@ -14,7 +14,7 @@ class ImpSuite extends munit.FunSuite {
 }
 
 class AbsSignSuite extends munit.FunSuite {
-  import abs.sign.*
+  import yurei.abs.sign.*
 
   // pos - zero => pos
   test("abs(2 - 0)") {
