@@ -1,5 +1,0 @@
-package abs
-
-trait Abs
-
-
