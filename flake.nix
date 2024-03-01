@@ -19,6 +19,9 @@
         devShell = pkgs.devshell.mkShell {
           imports = [ typelevel-nix.typelevelShell ];
           name = "yurei shell";
+          typelevelShell = {
+            nodejs.enable = true;
+          };
         };
       }
     );
