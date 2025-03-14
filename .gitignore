@@ -35,3 +35,4 @@ metals.sbt
 
 # Flip
 build/
+crash_report_*.txt

@@ -1,2 +1,2 @@
 @Test
-def test01(): Bool = 1 + 1 == 2
+def interval_plus_test(): Unit = ???
