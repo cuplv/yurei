@@ -2,5 +2,5 @@
 name        = "yurei"
 description = "AI of the Future"
 version     = "0.0.1"
-flix        = "0.48.0"
+flix        = "0.52.0"
 authors     = ["John Doe <john@example.com>"]
